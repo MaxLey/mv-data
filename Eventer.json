@@ -15,7 +15,9 @@
 			"email": "vanGisteren@trein.be",
 			"userName": "Piet"
 		},
-		{}
+		{
+			"userName": "A"
+		}
 	],
 	"event": [
 		{
