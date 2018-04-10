@@ -17,7 +17,8 @@
 		},
 		{
 			"userName": "Anna",
-			"birthday": "0001-02-01"
+			"birthday": "1995-02-01",
+			"email": "i"
 		}
 	],
 	"event": [
