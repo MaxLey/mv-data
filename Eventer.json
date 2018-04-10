@@ -16,7 +16,8 @@
 			"userName": "Piet"
 		},
 		{
-			"userName": "A"
+			"userName": "Anna",
+			"birthday": "0005-02-01"
 		}
 	],
 	"event": [
