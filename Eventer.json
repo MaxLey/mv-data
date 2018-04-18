@@ -42,7 +42,8 @@
 			]
 		},
 		{
-			"eventName": "Mijn Verjaarda",
+			"eventName": "Mijn Verjaardag",
+			"eventStart": "2018-04-12",
 			"attendee": [
 				{
 					"status": "going"
