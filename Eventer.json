@@ -48,7 +48,8 @@
 			"attendee": [
 				{
 					"status": "going",
-					"userName": "Jan Jans"
+					"userName": "Jan Janssens",
+					"birthday": "0001-05-12"
 				}
 			]
 		},
