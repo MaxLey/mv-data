@@ -1,0 +1,58 @@
+{
+	"user": [
+		{
+			"userName": "Jan",
+			"birthday": "2014-06-01",
+			"email": "iema@provider.suffix"
+		},
+		{
+			"birthday": "2018-04-06",
+			"email": "piet@iets.be",
+			"userName": "Jef"
+		},
+		{
+			"birthday": "2018-04-08",
+			"email": "vanGisteren@trein.be",
+			"userName": "Piet"
+		},
+		{
+			"userName": "Anna",
+			"birthday": "1995-02-01",
+			"email": "iejtsljrw"
+		}
+	],
+	"event": [
+		{
+			"eventName": "My Event",
+			"eventStart": "2018-04-13",
+			"eventEnd": "2018-04-14",
+			"attendee": [
+				{
+					"userName": "Piet Jefkens",
+					"birthday": "1996-04-12",
+					"email": "PietJ@hotmail.com",
+					"status": "maybe"
+				},
+				{
+					"userName": "Jan Pietens",
+					"birthday": "2018-04-17",
+					"email": "Alibaba@gmail.com",
+					"status": "going"
+				}
+			]
+		},
+		{
+			"eventName": "Mijn Verjaardag",
+			"eventStart": "2018-04-12",
+			"eventEnd": "2018-04-14",
+			"attendee": [
+				{
+					"status": "maybe",
+					"userName": "Jan Janssens",
+					"birthday": "1956-05-12",
+					"email": "JJanss@belgmail.be"
+				}
+			]
+		}
+	]
+}
