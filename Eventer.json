@@ -20,7 +20,8 @@
 			]
 		},
 		{
-			"eventName": "Mijn V",
+			"eventName": "Mijn Verjaardag",
+			"eventStart": "0004-03-12",
 			"attendee": [
 				{
 					"status": "going"
