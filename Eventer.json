@@ -49,7 +49,8 @@
 				{
 					"status": "not going",
 					"userName": "Jan Janssens",
-					"birthday": "1956-05-12"
+					"birthday": "1956-05-12",
+					"email": "J"
 				}
 			]
 		}
