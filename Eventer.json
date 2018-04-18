@@ -20,6 +20,7 @@
 			]
 		},
 		{
+			"eventName": "Rb",
 			"attendee": [
 				{
 					"status": "going"
