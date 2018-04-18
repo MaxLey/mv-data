@@ -32,6 +32,9 @@
 					"birthday": "1996-04-12",
 					"email": "PietJ@hotmail.com",
 					"status": "maybe"
+				},
+				{
+					"status": "going"
 				}
 			]
 		}
