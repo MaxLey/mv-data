@@ -36,7 +36,14 @@
 				{
 					"userName": "Jan Pietens",
 					"birthday": "2018-04-17",
-					"email": "Alibaba@gmail.",
+					"email": "Alibaba@gmail.com",
+					"status": "going"
+				}
+			]
+		},
+		{
+			"attendee": [
+				{
 					"status": "going"
 				}
 			]
