@@ -25,7 +25,8 @@
 			"attendee": [
 				{
 					"userName": "Jef Iets",
-					"birthday": "0020-05-14",
+					"birthday": "2008-05-14",
+					"email": "m",
 					"status": "going"
 				}
 			]
