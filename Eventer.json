@@ -21,9 +21,10 @@
 		},
 		{
 			"eventName": "Mijn Verjaardag",
-			"eventStart": "0412-03-12",
+			"eventStart": "4123-03-12",
 			"attendee": [
 				{
+					"userName": "J",
 					"status": "going"
 				}
 			]
