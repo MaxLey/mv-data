@@ -18,6 +18,13 @@
 					"status": "not going"
 				}
 			]
+		},
+		{
+			"attendee": [
+				{
+					"status": "going"
+				}
+			]
 		}
 	]
 }
