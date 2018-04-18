@@ -29,7 +29,8 @@
 			"attendee": [
 				{
 					"userName": "Piet Jefkens",
-					"birthday": "0001-04-12",
+					"birthday": "1996-04-12",
+					"email": "P",
 					"status": "going"
 				}
 			]
