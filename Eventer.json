@@ -33,6 +33,13 @@
 					"status": "maybe"
 				}
 			]
+		},
+		{
+			"attendee": [
+				{
+					"status": "going"
+				}
+			]
 		}
 	]
 }
