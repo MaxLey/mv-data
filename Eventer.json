@@ -37,6 +37,7 @@
 		{
 			"eventName": "Een nieuw event",
 			"eventStart": "2018-04-11",
+			"eventEnd": "2018-04-20",
 			"attendee": [
 				{
 					"status": "going"
