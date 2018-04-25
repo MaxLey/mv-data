@@ -51,6 +51,7 @@
 			"eventName": "Nog een event",
 			"attendee": [
 				{
+					"userName": "Iemand",
 					"status": "going"
 				}
 			]
