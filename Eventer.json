@@ -17,7 +17,8 @@
 					"email": "JPiettens@treinmail.be",
 					"status": "not going"
 				}
-			]
+			],
+			"minAge": "18"
 		},
 		{
 			"eventName": "Mijn Verjaardag",
