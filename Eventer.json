@@ -48,6 +48,7 @@
 			]
 		},
 		{
+			"eventName": "Nog een event",
 			"attendee": [
 				{
 					"status": "going"
