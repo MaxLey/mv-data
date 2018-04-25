@@ -3,7 +3,7 @@
 		{
 			"eventName": "Mijn Verjaardag",
 			"eventStart": "4123-03-19",
-			"eventEnd": "12-13-1023 gisteren",
+			"eventEnd": "12-13-1023 ",
 			"attendee": [
 				{
 					"userName": "Jef Iets",
@@ -12,6 +12,11 @@
 					"status": "maybe"
 				}
 			]
+		},
+		{
+			"attendee": {
+				"status": "going"
+			}
 		},
 		{
 			"eventName": "Een nieuw event",
