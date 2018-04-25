@@ -18,7 +18,8 @@
 					"status": "not going"
 				}
 			],
-			"minAge": "18"
+			"minAge": "18",
+			"maxAge": "32"
 		},
 		{
 			"eventName": "Mijn Verjaardag",
