@@ -77,7 +77,8 @@
 				{
 					"status": "going"
 				}
-			]
+			],
+			"eventName": "oefd"
 		},
 		{
 			"attendee": [
