@@ -42,6 +42,7 @@
 			"maxAge": "21",
 			"attendee": [
 				{
+					"userName": "Jan",
 					"status": "going"
 				}
 			]
