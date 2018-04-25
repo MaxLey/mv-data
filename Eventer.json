@@ -71,6 +71,13 @@
 					"status": "going"
 				}
 			]
+		},
+		{
+			"attendee": [
+				{
+					"status": "going"
+				}
+			]
 		}
 	]
 }
