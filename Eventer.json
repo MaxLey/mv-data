@@ -9,7 +9,8 @@
 			"eventEnd": "1998-02-05",
 			"minAge": "18",
 			"maxAge": "32",
-			"eventTime": "13:40"
+			"eventTime": "13:40",
+			"eventEndTime": "14:30"
 		},
 		{
 			"eventName": "Een nieuw event",
