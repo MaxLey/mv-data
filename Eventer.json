@@ -1,22 +1,14 @@
 {
 	"event": [
 		{
-			"eventName": "Mijn Verjaardag",
-			"eventStart": "ljikewrj",
-			"eventEnd": "19 Mar 4123",
-			"attendee": [
-				{
-					"userName": "Jef Iets",
-					"birthday": "2008-05-14",
-					"email": "manmail@piet.be",
-					"status": "maybe"
-				}
-			]
-		},
-		{
 			"attendee": {
 				"status": "going"
-			}
+			},
+			"eventName": "Test event",
+			"eventStart": "1998-02-04",
+			"eventEnd": "1998-02-05",
+			"minAge": "18",
+			"maxAge": "32"
 		},
 		{
 			"eventName": "Een nieuw event",
@@ -81,6 +73,11 @@
 				}
 			],
 			"eventName": "ljdcfsdw"
+		},
+		{
+			"attendee": {
+				"status": "going"
+			}
 		}
 	]
 }
