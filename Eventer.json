@@ -78,6 +78,20 @@
 					"status": "going"
 				}
 			]
+		},
+		{
+			"attendee": [
+				{
+					"status": "going"
+				}
+			]
+		},
+		{
+			"attendee": [
+				{
+					"status": "going"
+				}
+			]
 		}
 	]
 }
