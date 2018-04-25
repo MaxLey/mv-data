@@ -52,6 +52,7 @@
 			"attendee": [
 				{
 					"userName": "Iemand",
+					"birthday": "1998-02-01",
 					"status": "going"
 				}
 			]
