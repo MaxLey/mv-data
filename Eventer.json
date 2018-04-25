@@ -35,6 +35,7 @@
 			]
 		},
 		{
+			"eventName": "Een nieuw event",
 			"attendee": [
 				{
 					"status": "going"
